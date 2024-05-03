@@ -1,4 +1,4 @@
-#Covid articles web scraping and sentiment analysis 
+# Covid articles web scraping and sentiment analysis 
 
 We conducted a sentiment analysis for 2 newspapers: "The Guardian" and "BBC", both for words and for sentences. 
 Additionally, we investigated the dispersion of the word "China" for both newspapers.
